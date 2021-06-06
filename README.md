@@ -28,6 +28,4 @@ There were 1,356 Vine reviews that were 5 stars (48.9%) and 1,419 remaining Vine
 
 ## Summary
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
-
 In summary, there appears to not be positivity bias for reviews in the Vine program given that there is a higher percentage of non-Vine reviews that were 5 stars (56.5%) compared to the percentage of Vine reviews that were 5 stars (48.9%). One additional analysis that can be done with the dataset to support this would be to determine the skew of Vine and non-Vine reviews across 1-5 stars to see if there is any positivity bias for reviews in the Vine program.
